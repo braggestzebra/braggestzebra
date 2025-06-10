@@ -1,6 +1,4 @@
-.social:hover{
-  tranform: scale(1.3);
-}
+
 
 <h1 align="center">Hi 👋, I'm Bishal Shrestha</h1>
 <h3 align="center">A passionate full stack developer & Data Analyst</h3>
