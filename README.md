@@ -1,6 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Bishal Shrestha</h1>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+san&pause=1000&color=F7F7F7&center=true&width=435&lines=Full+Stack+Developer;Data+Analyst)](https://git.io/typing-svg)
 
 <div align="center">
