@@ -13,6 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/bishalstha14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bishalstha14" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bishaln_shresth1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bishaln_shresth1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
