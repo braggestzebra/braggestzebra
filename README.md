@@ -9,7 +9,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-- 🔭 I’m currently working on **Bank Management System**
+- 🔭 I’m currently working on **airbnb clone**
 
 - 🌱 I’m currently learning **Spring Boot, Angular, Golang**
 
