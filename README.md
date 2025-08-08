@@ -29,7 +29,7 @@
 
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=braggestzebra&show_icons=true&locale=en" alt="braggestzebra" /></p>
-</div>div>
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/braggestzebra/braggestzebra/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/braggestzebra/braggestzebra/output/pacman-contribution-graph.svg">
