@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Angular, Golang**
 
-- 📫 How to reach me **bishaln.shrestha2025@gmail.com**
+- 📫 How to reach me **bsth089@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <div class="social">
