@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **airbnb clone**
 
-- 🌱 I’m currently learning **Spring Boot, Angular, Golang**
+- 🌱 I’m currently learning **Tensorflow**
 
 - 📫 How to reach me **bsth089@gmail.com**
 
